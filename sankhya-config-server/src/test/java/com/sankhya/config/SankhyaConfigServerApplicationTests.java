@@ -1,4 +1,4 @@
-package com.sankhya.configserver;
+package com.sankhya.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
